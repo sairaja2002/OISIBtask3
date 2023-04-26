@@ -1,0 +1,115 @@
+*{
+  font-family: 'Pathway Extreme', sans-serif;
+}
+li{
+  list-style: none;
+}
+.row5{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  height: 6.2rem;
+  padding: 2rem 1rem;
+  color: 	#0002A1;
+}
+#add{
+  margin-top: 1rem;
+}
+#info{
+  width: 2rem;
+  height: 2rem;
+  border-radius: 50%;
+}
+.row9{
+  width: 90%;
+
+}
+#info i{
+  font-size: 0.9rem;
+  text-align: center;
+  margin-bottom: 5rem;
+}
+.row7{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+.row7 p{
+  margin-top: 1rem;
+  font-weight: 600;
+}
+a{
+  text-decoration: none;
+}
+.row7 .btn{
+  margin-right: 1rem;
+}
+.delete{
+  color: #ff0011;
+  font-size: 1.2rem;
+}
+.edit{
+  color: #0275d8;
+  font-size: 1.2rem;
+}
+.tick{
+  color: #5cb85c;
+  font-size: 1.2rem;
+}
+#message{
+  background-color: #FFF;
+  height: 4rem;
+  width: 100%;
+  border: none;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.row .mycol h4{
+  color: #3F0071;
+}
+.row4{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 1.5rem;
+}
+.row2{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.row6{
+  background-color: lightblue;
+  height: 100%;
+  color: #FB2576;
+  display: flex;
+  flex-direction: column;
+  padding: 1.6rem;
+}
+/* .mycol{
+  background-color: #FB2576;
+} */
+.heading{
+  text-align: center;
+  color: #0002A1;
+  margin-top: 1.5rem;
+}
+.heading i{
+  margin-right: 0.2rem;
+}
+.row9{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.row9 p{
+  margin-top: 0.5rem;
+  color: #000;
+}
+.row9 img{
+  width: 1.5rem;
+  height: 1.5rem;
+  margin-top: -0.5rem;
+  margin-left: 0.5rem;
+}
