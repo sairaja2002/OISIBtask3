@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/OISIBtask3/static/css/main.62c897ec.css",
+    "main.js": "/OISIBtask3/static/js/main.02a9fde0.js",
+    "static/js/787.b8fa26a9.chunk.js": "/OISIBtask3/static/js/787.b8fa26a9.chunk.js",
+    "static/media/party-popper.png": "/OISIBtask3/static/media/party-popper.80d113654ed2fd86d623.png",
+    "index.html": "/OISIBtask3/index.html",
+    "main.62c897ec.css.map": "/OISIBtask3/static/css/main.62c897ec.css.map",
+    "main.02a9fde0.js.map": "/OISIBtask3/static/js/main.02a9fde0.js.map",
+    "787.b8fa26a9.chunk.js.map": "/OISIBtask3/static/js/787.b8fa26a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62c897ec.css",
+    "static/js/main.02a9fde0.js"
+  ]
+}
